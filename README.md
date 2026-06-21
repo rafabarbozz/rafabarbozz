@@ -38,7 +38,4 @@ Passionate about technology, artificial intelligence, and software development. 
   <a href="https://www.linkedin.com/in/rafael-almeida-864876238/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/rafa_barbozz/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
