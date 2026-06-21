@@ -1,39 +1,44 @@
-## Hello, I'm Rafael💪🏻
-## Fascinated about learning new technologies, especially in the field of AI.
+## Data Science & Artificial Intelligence Student | Full Stack Developer
 
+Passionate about technology, artificial intelligence, and software development. I am currently pursuing a degree in Data Science and Artificial Intelligence at the Federal University of Paraíba (UFPB), constantly seeking to expand my knowledge and contribute to innovative projects.
 
-- 🔭 I’m currently an undergraduate student of Data Science and AI at the Federal University of Paraiba
-- 🤖 I’m currently studying about Django and Machine Learning / Deep Learning
-- 👨🏽‍💻 I’m looking to collaborate on Data Science, Web Devolopment and Artificial Intelligence projects
-- 📫 How to reach me: [https://lattes.cnpq.br](http://lattes.cnpq.br/8401115300533965) / [https://www.linkedin.com](https://www.linkedin.com/in/rafael-almeida-864876238/)
-- 📨 Contact me: **rafael.almeida1096@gmail.com**
+-  Undergraduate student in Data Science and Artificial Intelligence at UFPB
+-  Enthusiast of Machine Learning, Deep Learning, and Artificial Intelligence
+-  Frontend Developer with experience in **React.js** and **Next.js**
+-  Backend Developer with experience in **NestJS**, REST APIs, and database integration
+-  Experience with Python for Data Science, AI, and web development
+-  Interested in Data Science, Software Engineering, and Intelligent Systems
+-  Open to collaborating on projects involving Artificial Intelligence, Data Science, and Full Stack Development
 
+### Contact
 
-</p>        
+- Lattes: http://lattes.cnpq.br/8401115300533965
+- LinkedIn: https://www.linkedin.com/in/rafael-almeida-864876238/
+- Email: **rafael.almeida1096@gmail.com**
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+---
+
+<div align="center">
+  <h2> Technologies & Tools</h2>
 </div>
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,python,github,mysql,postgres,django,flask"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,react,nextjs,nestjs,django,flask,postgres,mysql,git,github,docker" />
   </a>
 </p>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+---
+
+<div align="center">
+  <h2> Connect With Me</h2>
 </div>
 
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/rafael-almeida-864876238/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://www.instagram.com/rafa_barbozz/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://www.linkedin.com/in/rafael-almeida-864876238/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/rafa_barbozz/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
